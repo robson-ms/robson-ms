@@ -17,4 +17,4 @@ Olá, me chamo Robson Silva. Sou desenvolvedor web ReactJS/NextJS e atualmento e
 <br/>
 <br/>
 
-Gosto UX Design. Gosto de criar interfaces bonitas e agradável para o usuário. Atualmente estudo o Figma.
+Gosto UX Design. Gosto de criar interfaces bonitas e agradável para o usuário. Atualmente estudo o Figma para melhorar o processo de protótipação.

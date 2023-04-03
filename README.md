@@ -1,4 +1,4 @@
-Olá, me chamo Robson Silva. Sou desenvolvedor web ReactJS/NextJS e atualmente estudando React Native.
+Olá! sou desenvolvedor front-end com expertise nas seguintes tecnologias: Reactjs, React Native, Nextjs, Typescript, Styled Components, Taillwind e outros.
 
 ### O que eu uso no dia a dia:
 
